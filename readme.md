@@ -50,9 +50,4 @@ Create a survey that :
 - When all questions are filled with answers, user may save as complete, and his survey status will become 'complete'. Complete users will not be shown the survey upon login.
 
 
-### VIEW
-https://z-survey-app.herokuapp.com/
-
-![survey-template](https://user-images.githubusercontent.com/22410733/35532086-d6bb6590-04ed-11e8-98d8-2099ab079587.gif)
-
 
